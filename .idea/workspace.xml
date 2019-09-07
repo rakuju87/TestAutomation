@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e67fe782-e433-4d9e-8bc0-ba2a13a1cdec" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TestAutomation$C__GitRepos_TestAutomation_testng_xml.ic" NAME="$PROJECT_DIR$/testng.xml Coverage Results" MODIFIED="1536112817470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectId" id="1PtaZGvYnDN0ZKVdt01XYcKuKY2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25747126" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitRepos\TestAutomation\src\test\API" />
+      <recent name="C:\GitRepos\TestAutomation\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="helpers" />
+      <recent name="appium" />
+      <recent name="logger" />
+      <recent name="utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MALVIYAP\IdeaProjects\TestAutomation\src\main\resources" />
+      <recent name="C:\Users\MALVIYAP\IdeaProjects\TestAutomation\src\main\java" />
+      <recent name="C:\Users\MALVIYAP\IdeaProjects\TestAutomation\src\main\java\Mobile\PageObjects" />
+      <recent name="C:\GitRepos\TestAutomation\src\test\API\features" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/GitRepos/TestAutomation/testng.xml">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/GitRepos/TestAutomation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Runner.TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookTests.feature" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/src/test/API/features/BookTests.feature" />
+      <option name="myNameFilter" />
+      <option name="cucumberJsArguments" value="" />
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/GitRepos/TestAutomation/testng.xml" />
+      <item itemvalue="TestNG.TestRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/GitRepos/TestAutomation/testng.xml" />
+        <item itemvalue="TestNG.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e67fe782-e433-4d9e-8bc0-ba2a13a1cdec" name="Default" comment="" />
+      <created>1531276201494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531276201494</updated>
+      <workItem from="1531276204539" duration="1494000" />
+      <workItem from="1531353525258" duration="5587000" />
+      <workItem from="1531367962148" duration="1103000" />
+      <workItem from="1531440842030" duration="1995000" />
+      <workItem from="1531443892916" duration="970000" />
+      <workItem from="1531446490726" duration="627000" />
+      <workItem from="1531448400986" duration="37000" />
+      <workItem from="1531960071061" duration="601000" />
+      <workItem from="1531972733694" duration="1379000" />
+      <workItem from="1532303671461" duration="1024000" />
+      <workItem from="1532673213195" duration="3005000" />
+      <workItem from="1532999771551" duration="3000" />
+      <workItem from="1534905163064" duration="15835000" />
+      <workItem from="1534980455442" duration="2552000" />
+      <workItem from="1535692638877" duration="8056000" />
+      <workItem from="1535934464569" duration="96000" />
+      <workItem from="1535934729903" duration="19378000" />
+      <workItem from="1535958279770" duration="2079000" />
+      <workItem from="1535960919829" duration="231000" />
+      <workItem from="1536019248656" duration="10707000" />
+      <workItem from="1536106474788" duration="16616000" />
+      <workItem from="1536191848133" duration="14824000" />
+      <workItem from="1536278635288" duration="2540000" />
+      <workItem from="1536537564151" duration="1704000" />
+      <workItem from="1536623072361" duration="4135000" />
+      <workItem from="1536710375827" duration="723000" />
+      <workItem from="1536712147847" duration="15000" />
+      <workItem from="1536822361374" duration="149000" />
+      <workItem from="1536883074829" duration="8576000" />
+      <workItem from="1536908558211" duration="35000" />
+      <workItem from="1536908738849" duration="621000" />
+      <workItem from="1537142379001" duration="1900000" />
+      <workItem from="1537150425105" duration="3525000" />
+      <workItem from="1537161297202" duration="530000" />
+      <workItem from="1537162944865" duration="1452000" />
+      <workItem from="1537229565735" duration="605000" />
+      <workItem from="1537233165528" duration="920000" />
+      <workItem from="1537234109424" duration="6357000" />
+      <workItem from="1537322230656" duration="3057000" />
+      <workItem from="1537401468771" duration="73000" />
+      <workItem from="1537401564234" duration="700000" />
+      <workItem from="1537768762090" duration="1062000" />
+      <workItem from="1538612598952" duration="8106000" />
+      <workItem from="1538632952330" duration="1935000" />
+      <workItem from="1538699269337" duration="5588000" />
+      <workItem from="1538953369741" duration="2415000" />
+      <workItem from="1538969479926" duration="2453000" />
+      <workItem from="1539133482177" duration="1858000" />
+      <workItem from="1539147806326" duration="712000" />
+      <workItem from="1539904788013" duration="4923000" />
+      <workItem from="1540163991508" duration="9602000" />
+      <workItem from="1540352248948" duration="950000" />
+      <workItem from="1540442808080" duration="4050000" />
+      <workItem from="1540508480043" duration="6164000" />
+      <workItem from="1540770112769" duration="3445000" />
+      <workItem from="1540792529488" duration="1318000" />
+      <workItem from="1540857868495" duration="9075000" />
+      <workItem from="1540961791543" duration="3725000" />
+      <workItem from="1541026734854" duration="2928000" />
+      <workItem from="1541033601341" duration="196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="216321000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.feature" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="nodeList.item(0).getTextContent()" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

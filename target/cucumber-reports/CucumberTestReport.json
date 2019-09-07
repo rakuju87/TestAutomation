@@ -1,0 +1,37 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "small feature",
+        "description": "",
+        "id": "mobile-demo;small-feature",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I click on login button",
+            "match": {},
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "mobile demo",
+    "description": "",
+    "id": "mobile-demo",
+    "keyword": "Feature",
+    "uri": "mobileDemo.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@mobileDemo"
+      }
+    ]
+  }
+]

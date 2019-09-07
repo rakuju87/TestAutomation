@@ -1,0 +1,35 @@
+[
+  {
+    "name": "pixel",
+    "deviceName": "emulator-5554",
+    "platformName": "Android",
+    "platformVersion": "9",
+    "automationName": "UIAutomator2",
+    "packageName": "org.wordpress.android",
+    "activity": "org.wordpress.android.ui.WPLaunchActivity",
+    "reset": true,
+    "app": "WordPress.apk"
+  },
+  {
+    "name": "samsung",
+    "deviceName": "1c858c2335037ece",
+    "platformName": "Android",
+    "platformVersion": "9.0",
+    "automationName": "UIAutomator2",
+    "packageName": "org.wordpress.android",
+    "activity": "org.wordpress.android.ui.WPLaunchActivity",
+    "reset": true,
+    "app": "WordPress.apk"
+  },
+  {
+    "name": "samsung",
+    "deviceName": "1c858c2335037ece",
+    "platformName": "Android",
+    "platformVersion": "9.0",
+    "automationName": "UIAutomator2",
+    "packageName": "org.wordpress.android",
+    "activity": "org.wordpress.android.ui.WPLaunchActivity",
+    "reset": true,
+    "app": "WordPress.apk"
+  }
+]
